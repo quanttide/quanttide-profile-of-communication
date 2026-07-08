@@ -2,7 +2,7 @@
   "title": "Consensus Extraction Example Data",
   "source": "Extracted from organizational chat records (July 2026) using extract-consensus.py",
   "note": "All personally identifiable information has been removed or generalized.",
-  "total_consensuses": 14,
+  "total_consensuses": 12
   "consensuses": [
     {
       "content": "面试候选人超过24小时不回复则直接拒绝",
@@ -68,14 +68,7 @@
       "source_chat": "internal",
       "timestamp": "2026-07-02"
     },
-    {
-      "content": "新成员按入职计划执行：先跟导师组了解业务，再学习运营流程，最后由创始人和导师带做",
-      "type": "transactional",
-      "category": "任务分配",
-      "participants": ["创始人", "新成员"],
-      "source_chat": "internal",
-      "timestamp": "2026-07-01"
-    },
+
     {
       "content": "运营负责人维护客户群公告，明确负责人和复核人",
       "type": "transactional",
@@ -108,13 +101,5 @@
       "source_chat": "internal",
       "timestamp": "2026-07-06"
     },
-    {
-      "content": "团队成员不参加客户会议时，由其他成员主持、创始人全程参与，该成员后续跟进对接",
-      "type": "transactional",
-      "category": "任务分配",
-      "participants": ["创始人", "项目经理", "运营成员", "技术成员"],
-      "source_chat": "internal",
-      "timestamp": "2026-07-06"
-    }
   ]
 }
