@@ -1,0 +1,120 @@
+{
+  "title": "Consensus Extraction Example Data",
+  "source": "Extracted from organizational chat records (July 2026) using extract-consensus.py",
+  "note": "All personally identifiable information has been removed or generalized.",
+  "total_consensuses": 14,
+  "consensuses": [
+    {
+      "content": "面试候选人超过24小时不回复则直接拒绝",
+      "type": "transactional",
+      "category": "制度规范",
+      "participants": ["创始人", "HR成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-01"
+    },
+    {
+      "content": "同意使用当前ROADMAP作为事实源",
+      "type": "transactional",
+      "category": "业务决策",
+      "participants": ["创始人", "技术成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-01"
+    },
+    {
+      "content": "交付规范：代码提交到GitHub仓库，数据上传到公司网盘账号，客户确认后删除数据",
+      "type": "transactional",
+      "category": "制度规范",
+      "participants": ["创始人", "项目经理", "技术成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-03"
+    },
+    {
+      "content": "1000元以下财务决策由运营层决定，1000-10000元由管理层决定，10000元以上由创始人参与",
+      "type": "constitutional",
+      "category": "制度规范",
+      "participants": ["创始人", "运营成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-03"
+    },
+    {
+      "content": "优先采购云存储工具一个月，用于客户数据交付",
+      "type": "transactional",
+      "category": "业务决策",
+      "participants": ["创始人", "项目经理", "运营成员", "技术成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-04"
+    },
+    {
+      "content": "商务团队应站在客户角度思考问题，帮助客户节省时间、降低风险、减少沟通成本",
+      "type": "constitutional",
+      "category": "观点确认",
+      "participants": ["创始人", "项目经理"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-06"
+    },
+    {
+      "content": "培养下级的核心是让团队成员在容错空间内尝试，并将上级的经验传递下去",
+      "type": "constitutional",
+      "category": "观点确认",
+      "participants": ["创始人", "运营成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-07"
+    },
+    {
+      "content": "超过回复期限的候选人按放弃处理",
+      "type": "transactional",
+      "category": "业务决策",
+      "participants": ["创始人", "HR成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-02"
+    },
+    {
+      "content": "新成员按入职计划执行：先跟导师组了解业务，再学习运营流程，最后由创始人和导师带做",
+      "type": "transactional",
+      "category": "任务分配",
+      "participants": ["创始人", "新成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-01"
+    },
+    {
+      "content": "运营负责人维护客户群公告，明确负责人和复核人",
+      "type": "transactional",
+      "category": "任务分配",
+      "participants": ["创始人", "运营负责人"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-01"
+    },
+    {
+      "content": "初期激励政策由运营负责人直接把握",
+      "type": "transactional",
+      "category": "任务分配",
+      "participants": ["创始人", "运营负责人"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-02"
+    },
+    {
+      "content": "通过社交媒体当甲方的策略起号，先提升账号基础数据而非直接转化",
+      "type": "transactional",
+      "category": "业务决策",
+      "participants": ["创始人", "运营负责人"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-05"
+    },
+    {
+      "content": "技术选型问题改用编程语言配合AI处理，替代原有统计软件",
+      "type": "transactional",
+      "category": "业务决策",
+      "participants": ["创始人", "技术成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-06"
+    },
+    {
+      "content": "团队成员不参加客户会议时，由其他成员主持、创始人全程参与，该成员后续跟进对接",
+      "type": "transactional",
+      "category": "任务分配",
+      "participants": ["创始人", "项目经理", "运营成员", "技术成员"],
+      "source_chat": "internal",
+      "timestamp": "2026-07-06"
+    }
+  ]
+}
