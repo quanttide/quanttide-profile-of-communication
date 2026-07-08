@@ -63,7 +63,7 @@
     {
       "content": "超过回复期限的候选人按放弃处理",
       "type": "transactional",
-      "category": "业务决策",
+      "category": "制度规范",
       "participants": ["创始人", "HR成员"],
       "source_chat": "internal",
       "timestamp": "2026-07-02"
@@ -79,7 +79,7 @@
     {
       "content": "运营负责人维护客户群公告，明确负责人和复核人",
       "type": "transactional",
-      "category": "任务分配",
+      "category": "制度规范",
       "participants": ["创始人", "运营负责人"],
       "source_chat": "internal",
       "timestamp": "2026-07-01"
@@ -87,7 +87,7 @@
     {
       "content": "初期激励政策由运营负责人直接把握",
       "type": "transactional",
-      "category": "任务分配",
+      "category": "制度规范",
       "participants": ["创始人", "运营负责人"],
       "source_chat": "internal",
       "timestamp": "2026-07-02"
